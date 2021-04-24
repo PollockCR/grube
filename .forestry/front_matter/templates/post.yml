@@ -7,10 +7,10 @@ fields:
   label: Title
 - type: datetime
   name: date
-  label: date
+  label: Date
 - type: text
   name: description
-  label: description
+  label: Description
 - type: file
   name: featured_image
   label: Featured Image
