@@ -2,7 +2,7 @@
 title: Hello World
 date: 2015-05-01T22:12:03.284Z
 description: Hello World
-featured_image: "/images/salty_egg.jpg"
+featured_image: /images/salty_egg.jpg
 ---
 This is my first post on my new fake blog! How exciting!
 
@@ -227,5 +227,3 @@ This paragraph has some `code` in it.
     This paragraph has some `code` in it.
 
 ![Alt Text](http://placekitten.com/200/300 "Image Title")
-
-    ![Alt Text](http://placekitten.com/200/300 "Image Title")

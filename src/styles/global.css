@@ -3,7 +3,11 @@
 @tailwind utilities;
 
 body {
-  @apply min-h-full;
+  min-height: 100vh;
   background-color: #f5f7d6;
   background-image: linear-gradient(60deg, #f5f7d6 0%, #cadcfb 99%);
+}
+
+img {
+  max-width: 100%;
 }
