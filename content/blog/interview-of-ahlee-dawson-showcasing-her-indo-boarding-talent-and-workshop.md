@@ -1,5 +1,5 @@
 ---
-title: Interview of Ahlee Dawson showcasing her indo-boarding talent and workshop
+title: 'Ahlee Dawson indo-boarding interview '
 date: 
 description: This is an interview with Ahlee Dawson showcasing her indo-boarding talent
   and workshop at The Mad Tea Party Jam festival in 2017
