@@ -7,4 +7,4 @@ description: This is my first ever filmed / produced / directed / edited, music 
 image: "/images/screen-shot-2021-06-14-at-11-25-22-am.png"
 
 ---
-<img src="/images/screen-shot-2021-06-14-at-11-25-22-am.png">https://www.youtube.com/watch?v=IzqTuGAC4lo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IzqTuGAC4lo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
