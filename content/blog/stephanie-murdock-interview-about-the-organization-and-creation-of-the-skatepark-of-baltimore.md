@@ -1,5 +1,5 @@
 ---
-title: Stephanie Murdock interview
+title: Stephanie Murdock interview Skatepark of Baltimore
 date: 
 description: This is an interview with Stephanie Murdock and her involvement organizing,
   fundraising, and eventually creating the newly constructed Skatepark of Baltimore
