@@ -15,3 +15,5 @@ fields:
 - type: file
   name: image
   label: Featured Image
+pages:
+- content/blog/all-time-low-circles-music-video.md
